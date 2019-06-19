@@ -8,7 +8,7 @@ C#使用 谷歌身份认证器
 
 #### 使用说明
 
-1. 移动端需要安装：GooleAuthenticator认真器
+1. 移动端需要安装：GooleAuthenticator认证器
 2. .NET Framework 4.0以上
 
 #### 参与贡献
